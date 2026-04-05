@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi 👋, I'm Vikash Kumar
 
-<!--
-**vikash-python/vikash-python** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Aspiring Data Analyst  
+📊 Skilled in Python, SQL, Excel, Power BI  
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- Python (NumPy, Pandas)
+- SQL
+- Data Visualization
+- Excel
+- Power BI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects
+🔹 IPL Data Analysis  
+🔹 Sales Dashboard (Power BI)  
+🔹 Netflix Data Analysis  
+
+## 📫 Contact Me
+- LinkedIn: 

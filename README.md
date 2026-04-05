@@ -16,4 +16,5 @@
 🔹 Netflix Data Analysis  
 
 ## 📫 Contact Me
-- LinkedIn: 
+- LinkedIn: linkedin.com/in/vikash-kumar-220280401
+- 
